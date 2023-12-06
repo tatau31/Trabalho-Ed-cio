@@ -1,0 +1,4 @@
+ps2;sony;300
+ps3;sony;900
+ps4;sony;2000
+Xbox one;Microsoft;1200
